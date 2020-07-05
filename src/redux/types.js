@@ -1,0 +1,6 @@
+export const ADD_INGREDIENTS = "ADD_INGREDIENTS";
+export const REMOVE_INGREDIENTS = "REMOVE_INGREDIENTS";
+export const PURCHASABLE = "PURCHASABLE";
+export const OPEN_MODAL = "OPEN_MODAL";
+export const CLOSE_MODAL = "CLOSE_MODAL";
+export const ORDER_DATA = "ORDER_DATA";
